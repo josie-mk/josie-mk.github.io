@@ -48,6 +48,7 @@ header{
 
 content { 
     display:grid;
+    color: black;
     grid-template-columns: 65px, 1fr 1fr;
     grid-template-rows: (60px, 60px, repeat(14, 1fr));
 }

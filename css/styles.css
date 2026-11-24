@@ -16,7 +16,7 @@ html, body{
 }
 
 .navbar-menu > .navbar-start a{
-    color: black;
+    color: white;
 }
 
 
@@ -47,10 +47,6 @@ header{
     margin: 10px;
     padding-bottom: 10px;
     border-bottom: solid 8px #6e79f4;
-}
-
-.content h2{
-    font-weight: 300;
 }
 
 

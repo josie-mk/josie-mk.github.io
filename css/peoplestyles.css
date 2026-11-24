@@ -33,6 +33,7 @@ header{
     display: grid;
     grid-template-columns: 30% 1fr;
     grid-template-rows: 60px repeat(4, 1fr);
+    color: black;
 }
 
 
